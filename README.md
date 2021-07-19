@@ -18,3 +18,14 @@ yarn dev
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
+## Running with harhat
+    ## For testing
+        npx hardhat test
+        
+    ## For deplying
+        npx hardhat run scripts/deploy.js --network localhost
+        
+    ## For running local node
+        npx hardhat node
+
+
