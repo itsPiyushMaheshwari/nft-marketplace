@@ -25,7 +25,7 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
       For running local node
         npx hardhat node
         
-     For deplying
+     For deploying
         npx hardhat run scripts/deploy.js --network localhost
         
    
