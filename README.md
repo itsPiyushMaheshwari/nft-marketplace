@@ -28,7 +28,7 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
      For deploying
         npx hardhat run scripts/deploy.js --network localhost
         
-## Deplying on Matic mumbai testnet
+## Deploying on Polygon (Mumbai Testnet)
         
          npx hardhat run scripts/deploy.js --network mumbai
       
